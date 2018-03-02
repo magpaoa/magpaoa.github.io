@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Mirror Match Prototype.unity
+  isLoaded: 1
+  isActive: 1

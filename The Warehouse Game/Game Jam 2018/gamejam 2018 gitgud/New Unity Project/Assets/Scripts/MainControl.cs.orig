@@ -1,0 +1,43 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class MainControl : MonoBehaviour
+{
+    //timer
+    public float timeRemaining;
+    //audio que for time up-main pursuerspawn
+    public AudioSource pursuerSpawn;
+    //text for time display - will change for asthetic
+    //from text to visual bar
+    public Text timerText;
+
+    public AudioSource BGM;
+
+    // Use this for initialization
+    void Start()
+    {
+        BGM = GetComponent<AudioSource>();
+        timerText.text = "Time Remaining: " + timeRemaining;
+        timeRemaining -= Time.deltaTime;
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+        timerText.text = "Time Remaining: " + timeRemaining;
+
+        timeRemaining -= Time.deltaTime;
+
+        if (timeRemaining == 0)
+        {
+            SendMessageUpwards("Metal Grinds and Pirces Your Ears");
+            pursuerSpawn = GetComponent<AudioSource>();
+        }
+       
+
+    }
+
+}

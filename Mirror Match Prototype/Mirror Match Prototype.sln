@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror Match Prototype", "Mirror Match Prototype.csproj", "{B1B317E7-65DF-C836-DE26-2FA7E0CB8600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B317E7-65DF-C836-DE26-2FA7E0CB8600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B317E7-65DF-C836-DE26-2FA7E0CB8600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B317E7-65DF-C836-DE26-2FA7E0CB8600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B317E7-65DF-C836-DE26-2FA7E0CB8600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
