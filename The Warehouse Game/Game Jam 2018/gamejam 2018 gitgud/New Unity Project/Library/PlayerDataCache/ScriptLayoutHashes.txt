@@ -1,4 +1,4 @@
-WindowsStandalone
+WebGL
 SceneListBegin?
 Assets/mainmenuscene.unity
 Assets/Micah Test Scene.unity

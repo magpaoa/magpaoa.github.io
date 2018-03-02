@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "The Warehouse Game.data.unityweb",
+"asmCodeUrl": "The Warehouse Game.asm.code.unityweb",
+"asmMemoryUrl": "The Warehouse Game.asm.memory.unityweb",
+"asmFrameworkUrl": "The Warehouse Game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

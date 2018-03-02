@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/mainmenuscene.unity
+- path: Assets/Micah Test Scene.unity
   isLoaded: 1
   isActive: 1
