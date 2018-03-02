@@ -1,6 +1,8 @@
 # magpaoa.github.io
 
 Welcome to the portfolio of Micah Agpaoa
+about me:
+I am a aspiring game programming studying game programming at Southern New Hampshire University
 
 Here's a game I made for SNHU's 48 hour game jam 2018
 
