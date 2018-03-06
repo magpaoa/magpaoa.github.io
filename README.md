@@ -25,11 +25,11 @@ magpaoa.github.io/The%20Warehouse%20Game/index.html</p>
 
 <h2>Current Projects:</h2>
 
-<p>Chex Quest HD
+<p>Chex Quest HD<br />
 Steam Link will be available when steam links are available... <br />
-
-Mirror Match
+<br />
+Mirror Match<br />
 A 2D artillery shooter with a slight twist, will be added once it's in a confident alpha build <br />
-
-Unnamed 2D Platformer
+<br />
+Unnamed 2D Platformer<br />
 A 2d platformer being made for a class, will be available once the class is completed</p> <br />
