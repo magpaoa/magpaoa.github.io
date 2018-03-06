@@ -1,7 +1,7 @@
 Hi, Welcome to the portfolio website of 
-<h1>Micah Agpaoa<h1>
+<h1>Micah Agpaoa</h1>
 
-About me:
+<h2>About me:</h2>
 I am a aspiring game programming studying game programming at Southern New Hampshire University
 Education: 
 Currently Studying Game Programming at Southern New Hampshire University, as well as studying a minor in Game Art and Design
@@ -14,7 +14,7 @@ Unity, Unreal, Visual Studios, 3DS Max, etc.
 Currently Learning:
 3d sculpting, zbrush, etc.
 
-Completed Projects:
+<h2>Completed Projects:</h2>
 
 Here's a game I made for SNHU's 48 hour game jam 2018
 
@@ -23,7 +23,7 @@ Here's a game I made for SNHU's 48 hour game jam 2018
 if that link doesn't work, just copy and paste this into your url:
 magpaoa.github.io/The%20Warehouse%20Game/index.html
 
-Current Projects:
+<h2>Current Projects:</h2>
 
 Chex Quest HD
 Steam Link will be available when steam links are available...
