@@ -25,7 +25,7 @@ magpaoa.github.io/The%20Warehouse%20Game/index.html</p>
 
 <h2>Current Projects:</h2>
 
-<p?Chex Quest HD
+<p>Chex Quest HD
 Steam Link will be available when steam links are available...
 
 Mirror Match
