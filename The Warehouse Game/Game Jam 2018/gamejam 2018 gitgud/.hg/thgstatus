@@ -8,8 +8,9 @@ mNew Unity Project/Assets/Micah's Scripts/Prefabs
 mNew Unity Project/Assets/Prefabs
 mNew Unity Project/Library
 mNew Unity Project/Library/PlayerDataCache
-mNew Unity Project/Library/PlayerDataCache/Data
-mNew Unity Project/Library/PlayerDataCache/Data/Managed
+rNew Unity Project/Library/PlayerDataCache/Data
+rNew Unity Project/Library/PlayerDataCache/Data/Managed
+rNew Unity Project/Library/PlayerDataCache/Data/Resources
 mNew Unity Project/Library/ScriptAssemblies
 mNew Unity Project/Library/metadata/00
 rNew Unity Project/Library/metadata/06
