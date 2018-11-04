@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Halo mythic interactive character sheet",
+"dataUrl": "Mythic Damage Calculator.data.unityweb",
+"wasmCodeUrl": "Mythic Damage Calculator.wasm.code.unityweb",
+"wasmFrameworkUrl": "Mythic Damage Calculator.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
